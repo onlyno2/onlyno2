@@ -3,6 +3,7 @@ name: update-timestats
 on:
   schedule:
     - cron: '30 16 * * *'
+  workflow_dispatch:
 
 jobs:
   build:
