@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+### Overall graph
 [![](https://raw.githubusercontent.com/onlyno2/onlyno2/master/profile-summary-card-output/vue/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/onlyno2/onlyno2/master/profile-summary-card-output/vue/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/onlyno2/onlyno2/master/profile-summary-card-output/vue/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
@@ -15,6 +16,9 @@
 5. 🎉 Merged PR [#1](https://github.com//onlyno2/onlyno2/pull/1) in [onlyno2/onlyno2](https://github.com//onlyno2/onlyno2)
 <!--END_SECTION:activity-->
 
+### Time stats
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 <!--
 **onlyno2/onlyno2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
