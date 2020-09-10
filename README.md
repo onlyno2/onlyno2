@@ -18,6 +18,21 @@
 
 ### Time stats
 <!--START_SECTION:waka-->
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.6%20million%20lines%20of%20code-blue)
+
+**I Mostly Code in Ruby** 
+
+```text
+Ruby                     7 repos             █████░░░░░░░░░░░░░░░░░░░░   20.59% 
+JavaScript               5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   14.71% 
+PHP                      4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.76% 
+HTML                     4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.76% 
+C                        3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.82%
+
+```
+
+
+
 <!--END_SECTION:waka-->
 <!--
 **onlyno2/onlyno2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
