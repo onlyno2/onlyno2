@@ -5,8 +5,6 @@
 [![](https://raw.githubusercontent.com/onlyno2/onlyno2/master/profile-summary-card-output/vue/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/onlyno2/onlyno2/master/profile-summary-card-output/vue/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-![](https://komarev.com/ghpvc/?username=onlyno2&color=green)
-
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#3](https://github.com//onlyno2/onlyno2/pull/3) in [onlyno2/onlyno2](https://github.com//onlyno2/onlyno2)
@@ -81,3 +79,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![guilyx's github stats](https://github-readme-stats.vercel.app/api?username=onlyno2x&show_icons=true&hide_border=true)
