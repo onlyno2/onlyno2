@@ -6,6 +6,9 @@
 
 ![](https://komarev.com/ghpvc/?username=onlyno2&color=green)
 
+### :zap: Recent Activity
+<!--START_SECTION:activity-->
+
 <!--
 **onlyno2/onlyno2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
