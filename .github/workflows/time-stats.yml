@@ -5,9 +5,10 @@ on:
     - cron: '30 16 * * *'
 
 jobs:
-  update-readme:
-    name: Update Readme with Metrics
+  build:
     runs-on: ubuntu-latest
+
+    name: Update Readme with Metrics
     steps:
       - uses: anmol098/waka-readme-stats@master
         with:
