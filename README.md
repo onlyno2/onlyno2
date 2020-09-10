@@ -8,6 +8,12 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#3](https://github.com//onlyno2/onlyno2/pull/3) in [onlyno2/onlyno2](https://github.com//onlyno2/onlyno2)
+2. 💪 Opened PR [#3](https://github.com//onlyno2/onlyno2/pull/3) in [onlyno2/onlyno2](https://github.com//onlyno2/onlyno2)
+3. 🎉 Merged PR [#2](https://github.com//onlyno2/onlyno2/pull/2) in [onlyno2/onlyno2](https://github.com//onlyno2/onlyno2)
+4. 💪 Opened PR [#2](https://github.com//onlyno2/onlyno2/pull/2) in [onlyno2/onlyno2](https://github.com//onlyno2/onlyno2)
+5. 🎉 Merged PR [#1](https://github.com//onlyno2/onlyno2/pull/1) in [onlyno2/onlyno2](https://github.com//onlyno2/onlyno2)
+<!--END_SECTION:activity-->
 
 <!--
 **onlyno2/onlyno2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
