@@ -7,11 +7,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6](https://github.com/onlyno2/onlyno2/pull/6) in [onlyno2/onlyno2](https://github.com/onlyno2/onlyno2)
-2. 💪 Opened PR [#6](https://github.com/onlyno2/onlyno2/pull/6) in [onlyno2/onlyno2](https://github.com/onlyno2/onlyno2)
-3. 🎉 Merged PR [#5](https://github.com/onlyno2/onlyno2/pull/5) in [onlyno2/onlyno2](https://github.com/onlyno2/onlyno2)
-4. 💪 Opened PR [#5](https://github.com/onlyno2/onlyno2/pull/5) in [onlyno2/onlyno2](https://github.com/onlyno2/onlyno2)
-5. 🎉 Merged PR [#4](https://github.com/onlyno2/onlyno2/pull/4) in [onlyno2/onlyno2](https://github.com/onlyno2/onlyno2)
+1. 🎉 Merged PR [#2](https://github.com/onlyno2/ibm-watson-iot-nodejs-app/pull/2) in [onlyno2/ibm-watson-iot-nodejs-app](https://github.com/onlyno2/ibm-watson-iot-nodejs-app)
+2. 💪 Opened PR [#2](https://github.com/onlyno2/ibm-watson-iot-nodejs-app/pull/2) in [onlyno2/ibm-watson-iot-nodejs-app](https://github.com/onlyno2/ibm-watson-iot-nodejs-app)
+3. 🎉 Merged PR [#1](https://github.com/onlyno2/ibm-watson-iot-nodejs-app/pull/1) in [onlyno2/ibm-watson-iot-nodejs-app](https://github.com/onlyno2/ibm-watson-iot-nodejs-app)
+4. 💪 Opened PR [#1](https://github.com/onlyno2/ibm-watson-iot-nodejs-app/pull/1) in [onlyno2/ibm-watson-iot-nodejs-app](https://github.com/onlyno2/ibm-watson-iot-nodejs-app)
+5. 🎉 Merged PR [#6](https://github.com/onlyno2/onlyno2/pull/6) in [onlyno2/onlyno2](https://github.com/onlyno2/onlyno2)
 <!--END_SECTION:activity-->
 
 ### Time stats
