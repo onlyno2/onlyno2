@@ -16,7 +16,7 @@
 
 ### Time stats
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.3%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-588747%20lines%20of%20code-blue)
 
 **I'm an Early 🐤** 
 
@@ -33,8 +33,8 @@
 Monday       75 commits     █████████░░░░░░░░░░░░░░░░   38.27% 
 Tuesday      30 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.31% 
 Wednesday    29 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.8% 
-Thursday     42 commits     █████░░░░░░░░░░░░░░░░░░░░   21.43% 
-Friday       15 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.65% 
+Thursday     41 commits     █████░░░░░░░░░░░░░░░░░░░░   20.92% 
+Friday       16 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.16% 
 Saturday     2 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.02% 
 Sunday       3 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.53%
 
@@ -64,7 +64,7 @@ Ruby                     3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 30/11/2021
+ Last Updated on 05/12/2021
 <!--END_SECTION:waka-->
 <!--
 **onlyno2/onlyno2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
