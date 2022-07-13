@@ -18,7 +18,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-589%20Thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-536%20Thousand%20lines%20of%20code-blue)
 
 **I'm an Early 🐤** 
 
@@ -56,17 +56,17 @@ No Activity Tracked This Week
 **I Mostly Code in PHP** 
 
 ```text
-PHP                      5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   14.29% 
-C                        5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   14.29% 
-Ruby                     4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   11.43% 
-JavaScript               4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   11.43% 
-HTML                     4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   11.43%
+PHP                      5 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.13% 
+C                        5 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.13% 
+HTML                     4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.9% 
+Ruby                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.68% 
+JavaScript               3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.68%
 
 ```
 
 
 
- Last Updated on 12/07/2022 17:06:27 UTC
+ Last Updated on 13/07/2022 17:10:01 UTC
 <!--END_SECTION:waka-->
 <!--
 **onlyno2/onlyno2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
