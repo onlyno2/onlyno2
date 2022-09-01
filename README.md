@@ -56,17 +56,17 @@ No Activity Tracked This Week
 **I Mostly Code in PHP** 
 
 ```text
-PHP                      4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.33% 
-C                        4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.33% 
-HTML                     4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.33% 
-JavaScript               3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.0% 
-C#                       2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.67%
+PHP                      4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.79% 
+C                        4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.79% 
+HTML                     4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.79% 
+JavaScript               3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.34% 
+C#                       2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.9%
 
 ```
 
 
 
- Last Updated on 31/08/2022 17:07:58 UTC
+ Last Updated on 01/09/2022 17:05:58 UTC
 <!--END_SECTION:waka-->
 <!--
 **onlyno2/onlyno2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
