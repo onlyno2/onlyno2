@@ -20,39 +20,6 @@
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written--329%20Thousand%20lines%20of%20code-blue)
 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    65 commits     ██████████████░░░░░░░░░░░   57.52% 
-🌆 Daytime    37 commits     ████████░░░░░░░░░░░░░░░░░   32.74% 
-🌃 Evening    10 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.85% 
-🌙 Night      1 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.88%
-
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday       10 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.85% 
-Tuesday      29 commits     ██████░░░░░░░░░░░░░░░░░░░   25.66% 
-Wednesday    26 commits     █████░░░░░░░░░░░░░░░░░░░░   23.01% 
-Thursday     20 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.7% 
-Friday       21 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.58% 
-Saturday     1 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.88% 
-Sunday       6 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   5.31%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Ho_Chi_Minh
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-```
-
 **I Mostly Code in PHP** 
 
 ```text
@@ -66,7 +33,7 @@ C#                       2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 03/09/2022 16:59:37 UTC
+ Last Updated on 04/09/2022 17:00:54 UTC
 <!--END_SECTION:waka-->
 <!--
 **onlyno2/onlyno2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
