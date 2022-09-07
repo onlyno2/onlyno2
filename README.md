@@ -5,12 +5,6 @@
 [![](https://raw.githubusercontent.com/onlyno2/onlyno2/master/profile-summary-card-output/vue/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/onlyno2/onlyno2/master/profile-summary-card-output/vue/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-### Time stats
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written--329%20Thousand%20lines%20of%20code-blue)
-
 **I Mostly Code in PHP** 
 
 ```text
